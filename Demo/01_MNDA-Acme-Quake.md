@@ -6,6 +6,10 @@ EffectiveDate.YMD=2021-11-25
 
 Why.sec={_P1} wishes to discuss and potentially enter into a consultiong arrangment with {_P2} and in that connection the parties expect to disclose {_Confidential_Information} to one another.
 
+Agt.Life.Period.cl=three (3) year(s)
+
+Conf.Engage.Tail.cl=two (2) years
+
 P1.xSignature=xAbigail_Altima
 
 P1.Sign.YMD=2021-11-26
